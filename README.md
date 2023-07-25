@@ -1,2 +1,0 @@
-# Tableau.Public
-DASHBOARDS
